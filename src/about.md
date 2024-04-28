@@ -11,22 +11,12 @@ eleventyNavigation:
     order: 3
 ---
 
-11ty starter template build using Fylgja CSS.
+Welcome to Eclipse Fitness! We're passionate about helping individuals like you achieve your health and fitness goals through personalized online coaching and support.
 
-This 11ty starter is based on our very own site fylgja.dev, but slimmed down so it is just bare bones version, with just enough things without adding to much.
+Our team of experienced trainers is dedicated to providing you with the tools, guidance, and motivation you need to succeed. With backgrounds in fitness, nutrition, and wellness, we bring a wealth of knowledge and expertise to every training session.
 
-This 11ty started is build with the newest version of 11ty, and comes packing with;
+At Eclipse Fitness, we believe in a holistic approach to health and fitness. We understand that every individual is unique, which is why we tailor our programs to meet your specific needs and goals. Whether you're looking to lose weight, build muscle, improve flexibility, or enhance overall well-being, we're here to support you every step of the way.
 
-- Fylgja CSS
-- Eleventy Sass Compiler
-- PostCSS
-- Rollup
-- Html Dialog with outside click close support
-- Eleventy Img & Navigation
-- Prebuild head with;
-  - OG & Twitter tags
-  - Support for loading page specific CSS and Javascript
-  - and more..
-- Offline page with service worker
+Our mission is to empower you to take control of your health and transform your life. We're committed to helping you reach your full potential, both physically and mentally, so you can live a happier, healthier, and more fulfilling life.
 
-_and more..._
+Thank you for considering Eclipse Fitness as your partner in fitness. We look forward to helping you achieve your goals and celebrating your successes along the way.
