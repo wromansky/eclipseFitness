@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>11ty Fylgja Blog</title>
+  <subtitle>Your cool new blog, built with Eleventy and Fylgja CSS.</subtitle>
+  <link href="https://11ty-fylgja.netlify.app/components/"/>
+  <link href="https://11ty-fylgja.netlify.app/feed.xml" rel="self"/>
+  <updated>2024-04-28T23:44:41Z</updated>
+  <id>https://11ty-fylgja.netlify.app/components/</id>
+  <author>
+    <name>Your Name</name>
+  </author>
+</feed>
