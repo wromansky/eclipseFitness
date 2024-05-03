@@ -1,10 +1,7 @@
 ---
-title: "My new post"
-description: "My new post"
-featured: "https://picsum.photos/id/2/640/480/"
+title: "Review"
+description: "Lisa"
+featured: ./src/assets/images/Title-2.png 
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quod ullam sit ea cumque soluta autem minus accusantium! Consequatur aspernatur rem natus quod nesciunt tempora! Nisi, quam veniam! Minima, earum.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quod ullam sit ea cumque soluta autem minus accusantium! Consequatur aspernatur rem natus quod nesciunt tempora! Nisi, quam veniam! Minima, earum.
-
+I've been working out in gyms for about 20 years now, and plateau is an understatement.  I knew it was time to switch up my routine.  After talking to Kevin about the process, I had to give it a shot. I’m so glad I did!

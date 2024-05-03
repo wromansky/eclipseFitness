@@ -1,10 +1,7 @@
 ---
-title: "My first post"
-description: "My first post"
-featured: "https://picsum.photos/id/2/640/480/"
+title: "Hardworking and attentive"
+description: "Lauren"
+featured: ./src/assets/images/Title-2.png 
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quod ullam sit ea cumque soluta autem minus accusantium! Consequatur aspernatur rem natus quod nesciunt tempora! Nisi, quam veniam! Minima, earum.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quod ullam sit ea cumque soluta autem minus accusantium! Consequatur aspernatur rem natus quod nesciunt tempora! Nisi, quam veniam! Minima, earum.
-
+The gym itself is nice and I like the layout. The trainers here are really hardworking and attentive. My fav go-tos are Kevin and Mark, I really recommend them to anyone looking to start training!

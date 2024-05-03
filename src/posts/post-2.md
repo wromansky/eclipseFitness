@@ -1,9 +1,7 @@
 ---
-title: "My 2de post"
-description: "My 2de post"
+title: "Big thank you"
+description: "Howard"
+featured: ./src/assets/images/Title-2.png 
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quod ullam sit ea cumque soluta autem minus accusantium! Consequatur aspernatur rem natus quod nesciunt tempora! Nisi, quam veniam! Minima, earum.
-
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia quod ullam sit ea cumque soluta autem minus accusantium! Consequatur aspernatur rem natus quod nesciunt tempora! Nisi, quam veniam! Minima, earum.
-
+Big thank you to Kevin & Mark. I have lost a ton of weight and put on a lot of muscle mass ever with the workouts/training they have me doing.
